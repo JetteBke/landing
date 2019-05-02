@@ -1,0 +1,23 @@
+.banner {
+  background-image: url("../../images/rose.png");
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner .container-banner {
+  color: rgb(96, 5, 68);
+  font-size: 30px;
+  font-family: 'Pacifico';
+  text-align: center;
+}
+
+.discover-button {
+  background-color: rgb(96, 5, 68);
+  border-radius: 40px;
+  border: 1px solid white;
+  color: white;
+  padding: 5px 30px;
+}
+
